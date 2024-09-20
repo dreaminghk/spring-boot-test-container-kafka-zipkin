@@ -1,0 +1,15 @@
+POST http://localhost:8080/order
+Content-Type: application/json
+
+{
+    "orderNumber": {{$randomInt 1111 9999}}, 
+    "items": "some tiem", 
+    "customerId": 1, 
+    "totalPrice": {{$randomInt 1 200}}
+}
+
+###
+GET http://localhost:8080/revenue/8360
+
+###
+GET http://localhost:8080/revenue
