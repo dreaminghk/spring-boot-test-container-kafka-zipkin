@@ -1,6 +1,7 @@
 # spring-boot-test-container-kafka-zipkin
 A spring boot project that demonstrate Kafka Setup with distributed tracing and test container support.
 
+See the full explanation at [http://www.dreaminghk.com](https://www.dreaminghk.com/2024/09/21/how-i-built-a-real-time-event-system-with-spring-boot-and-spring-kafka-and-you-can-too/)
 
 ## Overview
 
@@ -19,3 +20,5 @@ run
 
 # Example Request
 There are example API requests in [test.http](./test.http). You can open it with vscode RestClient plugin.
+
+
