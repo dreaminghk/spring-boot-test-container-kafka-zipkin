@@ -1,7 +1,9 @@
 # spring-boot-test-container-kafka-zipkin
 A spring boot project that demonstrate Kafka Setup with distributed tracing and test container support.
 
-See the full explanation at [http://www.dreaminghk.com](https://www.dreaminghk.com/2024/09/21/how-i-built-a-real-time-event-system-with-spring-boot-and-spring-kafka-and-you-can-too/)
+See the full explanation at [http://www.dreaminghk.com](http://www.dreaminghk.com)  
+- [How I Built a Real-Time Event System with Spring Boot and Spring Kafka (and You Can Too!)](https://www.dreaminghk.com/2024/09/21/how-i-built-a-real-time-event-system-with-spring-boot-and-spring-kafka-and-you-can-too/)
+- [Start a Spring boot project without setting configurations until next Spring!](https://www.dreaminghk.com/2024/09/29/start-a-spring-boot-project-without-setting-configurations-until-next-spring/)
 
 ## Overview
 
